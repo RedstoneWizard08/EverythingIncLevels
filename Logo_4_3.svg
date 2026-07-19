@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080mm"
+   height="810mm"
+   viewBox="0 0 1080 810"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="Logo_4_3.svg"
+   inkscape:export-filename="Logo_4_3.png"
+   inkscape:export-xdpi="25.400002"
+   inkscape:export-ydpi="25.400002"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.13979681"
+     inkscape:cx="1448.5309"
+     inkscape:cy="783.27968"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0090ec;fill-opacity:1;stroke-width:0.221906;stroke-dasharray:none"
+       id="rect1"
+       width="540"
+       height="405"
+       x="0"
+       y="-2.220446e-16" />
+    <rect
+       style="fill:#c600f5;fill-opacity:1;stroke-width:0.221906;stroke-dasharray:none"
+       id="rect1-3"
+       width="540"
+       height="405"
+       x="540"
+       y="-8.8817842e-16" />
+    <rect
+       style="fill:#fba400;fill-opacity:1;stroke-width:0.221906;stroke-dasharray:none"
+       id="rect1-1"
+       width="540"
+       height="405"
+       x="0"
+       y="405" />
+    <rect
+       style="fill:#00c659;fill-opacity:1;stroke-width:0.221906;stroke-dasharray:none"
+       id="rect1-3-2"
+       width="540"
+       height="405"
+       x="540"
+       y="405" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke-width:0.221905;stroke-dasharray:none"
+       id="rect1-3-2-6"
+       width="540"
+       height="405"
+       x="270"
+       y="202.5" />
+    <text
+       xml:space="preserve"
+       style="font-size:299.861px;writing-mode:lr-tb;direction:ltr;fill:#d6d6d6;fill-opacity:1;stroke-width:0.264999;stroke-dasharray:none"
+       x="287.96658"
+       y="512.05017"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:299.861px;font-family:Serif;-inkscape-font-specification:'Serif Bold';fill:#d6d6d6;fill-opacity:1;stroke-width:0.265"
+         x="287.96658"
+         y="512.05017">AM</tspan></text>
+  </g>
+</svg>
